@@ -1,2 +1,2 @@
 # demo1
-git operations
+git operations demo
